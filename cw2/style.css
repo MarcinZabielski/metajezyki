@@ -1,0 +1,53 @@
+table, th, td {
+  border: 1px solid black;
+}
+
+.paragraf1 {
+  background-color: coral;
+}
+
+.paragraf2 {
+  background-color: aquamarine;
+}
+
+.paragraf3 {
+  background-color: beige;
+}
+
+td a:hover {
+  text-decoration: underline;
+}
+
+td a:visited {
+  color: green;
+}
+
+td a:active {
+  background-color: beige;
+}
+
+.autor1 {
+  font-family: cursive;
+}
+
+.tytul1 {
+  font-family: cursive;
+}
+
+.autor2 {
+  font-family: monospace;
+  text-shadow: 2px 2px 5px blueviolet;
+}
+
+.tytul2 {
+  font-family: monospace;
+  text-shadow: 2px 2px 5px blueviolet;
+}
+
+.autor3 {
+  text-shadow: 2px 2px 5px orangered;
+}
+
+.tytul3 {
+    text-shadow: 2px 2px 5px orangered;
+}
